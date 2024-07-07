@@ -1,3 +1,4 @@
 # Grafica_Arboles
 # Diagrama UML
-![image](https://github.com/Carlos11-tech/Estructura-de-Datos/assets/166523461/c0fdd069-ada7-4bbb-a49e-b54123c6f8c0)
+
+<img width="1479" alt="Captura de pantalla 2024-07-06 a la(s) 8 30 35 p  m" src="https://github.com/Carlos11-tech/Grafica_Arboles/assets/166523455/50e879b8-c8a0-4d15-aed6-a289cf047ed2">
